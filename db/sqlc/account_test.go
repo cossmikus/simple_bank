@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/simplebank_project/util"
+	"github.com/cossmikus/simple_bank/util"
 	"github.com/stretchr/testify/require"
 )
 

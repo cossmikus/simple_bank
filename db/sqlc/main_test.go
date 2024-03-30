@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	_ "github.com/lib/pq"
-	"github.com/simplebank_project/util"
+	"github.com/cossmikus/simple_bank/util"
 )
 
 var testQueries *Queries
